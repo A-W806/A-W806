@@ -37,4 +37,4 @@
 <a href="/https://wa.me/qr/ALY43U26OJBOF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 
 
-![snake gif](https://github.com/A-W806/A-W806/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/A-W806/AW806/blob/output/github-contribution-grid-snake.svg)
