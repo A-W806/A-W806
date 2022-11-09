@@ -26,7 +26,8 @@
 <img align= "center" alt="htmls" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align= "center" alt="htmls" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">     
 <img align= "center" alt="htmls" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">     
-      
+<img align= "center" alt="htmls" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    
 ### Minhas Redes Sociais
 <div>
   
@@ -37,4 +38,5 @@
 <a href="/https://wa.me/qr/ALY43U26OJBOF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 
 
-![snake gif](https://github.com/A-W806/AW806/blob/output/github-contribution-grid-snake.svg)
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
