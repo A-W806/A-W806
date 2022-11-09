@@ -2,7 +2,7 @@
 
 
 
-<a href="https://github.com/A-W 806">
+<a href="https://github.com/A-W806">
   
   <div style="display: inline_block"><br>
 
@@ -13,7 +13,7 @@
 <div> <style="display: inline_"><br/>
 
   <div align="center">
-<a href="https://github.com/A-W 806">
+<a href="https://github.com/A-W806">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-W806&show_icons=true&theme=dracula&include_all_commits">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-W806&layout=compact&langs_count=7&theme=dra">
 </div>
@@ -37,4 +37,4 @@
 <a href="/https://wa.me/qr/ALY43U26OJBOF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 
 
-![snake gif](https://github.com/A-W 806/AW 806/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/A-W806/AW806/blob/output/github-contribution-grid-snake.svg)
