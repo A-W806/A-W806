@@ -38,7 +38,7 @@
 ### Minhas Redes Sociais
 <div>
   
-<a href="figueiredo_alex" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo">
+<a href="https://www.instagram.com/figueiredo_alex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo">
 <a href="https://www.facebook.com/me/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <a href="https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com&service=mail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo">
 <a href="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bv%2FTXJxalQiuDwxot79dLkA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo">
