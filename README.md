@@ -4,16 +4,22 @@
   
 <div style="display: inline_block"><br>
 
-<div> <style="display: inline_"><br/>
 
   <div align="center">
-  <div align="center">
+    </br>
   <a href="https://github.com/A-W806">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-W806&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
   <div style="display: inline_block"><br>
     
   <div align="center">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-W806&layout=compact&langs_count=7&theme=dark"/>
+    </br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formandodev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+      <div style="display: inline_block"><br>
+</br>
+        
 </div>
 </div>
 </br>
