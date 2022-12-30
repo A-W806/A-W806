@@ -3,12 +3,9 @@
 <a href="https://github.com/A-W806">
   
 <div style="display: inline_block"><br>
-  <img
-	src="https://github.com/AW-806/AW-806/blob/main/ativos/code.gif?raw=true"
-	width="25vw"
-	height="220px"
-	align="right"
-/>
+ 
+	
+	
    
 
 
