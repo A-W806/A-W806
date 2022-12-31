@@ -1,7 +1,14 @@
 -### Ola eu sou o Alex figueiredo 😊 ^^👋 
+<img
+	
+	src="https://github.com/A-W806/A-W806/blob/main/ativos/code.gif?raw=true"
+	width="25vw"
+	height="220px"
+	align="right"   
+/>
 
 <div align="center">
-  <a href="https://github.com/erismaroliveira">
+  <a href="https://github.com/A-W806">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-W806&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-W806&layout=compact&langs_count=7&theme=omni"/>
 </div>
