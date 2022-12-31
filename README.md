@@ -1,15 +1,16 @@
 -### Ola eu sou o Alex figueiredo 😊 ^^👋 
 
+<div align="center">
+  <a href="https://github.com/erismaroliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-W806&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-W806&layout=compact&langs_count=7&theme=omni"/>
+</div>
+
 <a href="https://github.com/A-W806">
   
 <div style="display: inline_block"><br>
  
-	
-	
-   
-
-
-  <div align="center">
+ <div align="center">
     </br>
   <a href="https://github.com/A-W806">
    
@@ -17,11 +18,7 @@
      <div align="center">
     </br>
   <div align="left">
-   
-     <div align="right">
-      <div style="display: inline_block"><br>
-</br>
-        
+   </br>
 </div>
 </div>
 </br>
@@ -42,6 +39,8 @@
     
 ### Minhas Redes Sociais
 <div>
+	
+
   
 <a href="https://www.instagram.com/figueiredo_alex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo">
 <a href="https://www.facebook.com/me/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
@@ -55,9 +54,16 @@
   
 ![snake gif](https://github.com/A-W806/A-W806/blob/output/github-contribution-grid-snake.svg) 
   :sparkles:
-  :shipit:
+  :shipit: 
+	<img
+	src="https://github.com/A-W806/A-W806/blob/main/ativos/adornment-5.png?raw=true"
+	width="200px"
+	height="160px"
+	align="right"	
+/>
 
-<h2>hello,world!</h2>
+<h2>Hello,world!</h2>
+
   
   
   
