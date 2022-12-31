@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/A-W806">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-W806&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-W806&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=A-W806&show_icons=true&theme=omni&nclude_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-W806&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 <a href="https://github.com/A-W806">
