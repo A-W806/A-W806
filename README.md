@@ -62,7 +62,9 @@
 ![snake gif](https://github.com/A-W806/A-W806/blob/output/github-contribution-grid-snake.svg) 
   :sparkles:
   :shipit: 
-	<img
+	
+
+<img
 	src="https://github.com/A-W806/A-W806/blob/main/ativos/adornment-5.png?raw=true"
 	width="200px"
 	height="160px"
