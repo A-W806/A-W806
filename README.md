@@ -4,7 +4,7 @@
 src="(https://github.com/A-W806/repositorio_teste/blob/main/code.gif)"
 width="25vw"
 height="250px"
-align="right" />
+align="right"/>
 
 
 <div align="center">
