@@ -1,7 +1,6 @@
 -### Ola eu sou o Alex figueiredo 😊 ^^👋 
-
 <img
-	src="https://github.com/A-W806/A-W806/blob/main/ativos/code.gif?raw=true"
+src="https://github.com//github.com/A-W806/A-W806/blob/mai/ativos/code.gif?raw=true"
 	width="25vw"
 	height="220px"
 	align="right"
