@@ -1,12 +1,11 @@
 -### Ola eu sou o Alex figueiredo 😊 ^^👋 
 
-
-
 <img
-src="(https://github.com/A-W806/repositorio_teste/blob/main/code.gif)"
-width="25vw"
-height="250px"
-align="right"/>
+	src="https://github.com/A-W806/A-W806/blob/main/ativos/code.gif?raw=true"
+	width="25vw"
+	height="220px"
+	align="right"
+/>
 
 
 <div align="center">
