@@ -50,7 +50,7 @@
 
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/A-W806/count.svg" /></p>
   
-![snake gif](https://github.com/A-W806/A-W806/blob/output/github-contribution-grid-snake.svg) 
+![snake animation ](https://raw.githubusercontent.com/A-W806/A-W806/output/github-contribution-grid-snake.svg) 
   :sparkles:
   :shipit: 
 	<img 
